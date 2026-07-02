@@ -15,9 +15,6 @@ A simple and efficient Java application designed to manage student grades and ca
    javac GradeTracker.java
 5. Run the file : java GradeTracker
 
-## 📸 Project Output
-![Student Grade Tracker Output](Screenshot%202026-07-02%20143909.png)
-
 ## 💡Learnings
 - Using Java ArrayList.
 - Using input validation(looping and conditions).
